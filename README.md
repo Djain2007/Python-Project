@@ -69,5 +69,5 @@ wordle_lite/
 
 ### ▶️ YouTube Link
 ```markdown
-https://youtu.be/Mwu4cCxBams?si=tiNAQUZpAOFRHg71
+https://youtu.be/7lkcC7frKdI?si=ywCYheVP9oAQFc18
 ```
