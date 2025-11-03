@@ -67,45 +67,7 @@ wordle_lite/
 
 ---
 
-## 🖼️ Screenshot / Gameplay Video
-
-🎥 **Add your gameplay demo here!**
-
-You can record the screen using OBS, Xbox Game Bar, or any recorder and add:
-
 ### ▶️ YouTube Link
 ```markdown
 https://youtu.be/your-demo-link
 ```
-
-### 🖼️ Optional Screenshot
-![Gameplay Screenshot](screenshots/demo.png)
-
-If you host your video on YouTube, you can also embed a clickable thumbnail like this:
-```markdown
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://youtu.be/your-video-id)
-```
-
----
-
-## 💡 Customization
-
-You can easily modify:
-- `WORD_LIST` → Add your own secret words  
-- `WORD_LENGTH` → Change number of letters  
-- `MAX_GUESSES` → Adjust the number of tries  
-- Colors → Change `COLOR_GREEN`, `COLOR_YELLOW`, etc.  
-- Fonts and layout → Adjust in `create_widgets()`  
-
----
-
-## 📜 License
-
-This project is **open-source** and free to use for learning or personal use.  
-Feel free to modify and improve it!
-
----
-
-**👨‍💻 Author:** Daksh Jain  
-**🧠 Built with:** Python + Tkinter  
-**📦 Version:** 1.0
